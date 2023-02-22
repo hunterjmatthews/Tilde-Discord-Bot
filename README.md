@@ -1,1 +1,1 @@
-# Tilde-Discord-Bot
+# Tilde Discord Bot
